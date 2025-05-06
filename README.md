@@ -1,2 +1,4 @@
 # Random-number-Generator
-Understanding random module; Heads or tails Project; who will pay the bill project.
+Understanding random module with 2 simple projects
+a. Heads or tails Project;
+b. who will pay the bill project.
